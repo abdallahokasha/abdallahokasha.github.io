@@ -30,7 +30,7 @@ twitter_username: abdallah_okasha
 github_username:  abdallahokasha
 
 # Build settings
-theme: plainwhite
+theme: minima
 plugins:
   - jekyll-feed
 
