@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Hi 👋  I am [Abdallah](https://www.linkedin.com/in/abdallah-okasha/ "https://www.linkedin.com/in/abdallah-okasha/") you can call me Okasha 😁
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<p>
+    <a href="https://www.linkedin.com/in/abdallah-okasha/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://stackoverflow.com/users/5863487/abdallah-okasha?tab=profile"><img src="https://img.shields.io/badge/stackoverflow-%230177B5?logo=stackoverflow&logoColor=white""/></a>
+</p>
+  
+I'm a geek software engineer who loves learning new technologies. I am using C# and JS but flexible and can use any language🕺
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- I'm a Backend Engineer [@trella-app](https://www.trella.app/)
+- I love music 🎶 and coffee ☕️
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can find my resume <a href="https://drive.google.com/drive/u/0/folders/1wxT6m1dsETvpmGYchB5Sm-JALMS1VTD4">here</a>
